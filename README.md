@@ -18,6 +18,7 @@ Navigate to the "Program Data Download" tool under the "Data Download" section. 
 Start by making sure that the assets/plots directory exists. Then open the "process.py" script and update the "INPUT_DATA" variable to point to the downloaded program data. Then, simply run the script. This will result in two outcomes: a histogram of completion data and the completion quantiles. I use to include a growth-share plot in the report. However, this requires some extra work and is probably not useful enough to justify.
 
 ## Step 6: Create visuales
+Return to the Lightcase report you generated earlier and download or screenshot the relevant visuals. 
 
 ## Step 7: Create Report
 
