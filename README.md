@@ -3,6 +3,7 @@ This is the template for building Lightcast/EMSI reports. These reports are requ
 
 There are 6 broad steps that must be taken:
 ## Step 1: Identify CIP codes
+The first step is to identify the CIP codes associated with the program you are anlyizing. Sometimes units will have feedback on this point, but typically they will not. There are generally two good resources to use: a) the list of programs from the University Factbook (https://itableau.du.edu/#/views/AcademicPrograms/AcademicPrograms?:iid=1). b) The NCES website (https://nces.ed.gov/ipeds/cipcode/Default.aspx?y=56). The Lightcast program evaluation tool will also allow you search for CIP codes based on program keywords.
 
 ## Step 2: Identify SOC codes
 
