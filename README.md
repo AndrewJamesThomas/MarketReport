@@ -20,8 +20,8 @@ Start by making sure that the assets/plots directory exists. Then open the "proc
 ## Step 6: Create visuals
 Return to the Lightcase report you generated earlier and download or screenshot the relevant visuals. You do not need to include all visuals, but these are the ones that are generally expected: "Program Overview", "Completions by Institution", "Completions Over Time", the "Labor Market Demand", "Demographic Breakdowns", "Hard/Soft Skills".
 
-## Step 7: Create Report
+## Step 7: Create Report/Write Exec Summary
+Copy the visuals into the report template and update the executive summary with the key information and any other observations you wish to include.
 
-## Step 8: Write Summary
-
-## Step 9: Proof
+## Step 8: Proof
+Obviously, proof the report. Then save as PDF.
