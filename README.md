@@ -9,7 +9,7 @@ The first step is to identify the CIP codes associated with the program you are 
 You will also need to identify the associated SOC codes. Again, there are three typical ways of determining this: a) the O\*Net website (https://www.onetonline.org/) b) the CIP-SOC crosswalk provided by Lightcast c) keyword searches in Lightcast. The SOC codes will sometimes be useful for evaluating the labor market, but often times they are not terribly informative.
 
 ## Step 3: Run Lightcast report
-Login into EMSI/Lightcast (https://login.economicmodeling.com/login/login.php) and navigate to the "Program Develop & Review" module under the "program" subsection. Run the report using the selected CIP/SOC codes.
+Login into EMSI/Lightcast (https://login.economicmodeling.com/login/login.php) and navigate to the "Program Develop & Review" module under the "program" subsection. Run the report using the selected CIP/SOC codes. When the report is completed save it, but do not export it as a pdf/word document. It will be easier to download the graphics individually.
 
 ## Step 4: Download CIP code data
 
