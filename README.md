@@ -12,6 +12,7 @@ You will also need to identify the associated SOC codes. Again, there are three 
 Login into EMSI/Lightcast (https://login.economicmodeling.com/login/login.php) and navigate to the "Program Develop & Review" module under the "program" subsection. Run the report using the selected CIP/SOC codes. When the report is completed save it, but do not export it as a pdf/word document. It will be easier to download the graphics individually.
 
 ## Step 4: Download CIP code data
+Navigate to the "Program Data Download" tool under the "Data Download" section. Request the same exact data you requested in step 3 for the <b>last 2 years</b> and download this data. Save it into the data directory.
 
 ## Step 5: Process downloaded data with the python script
 
