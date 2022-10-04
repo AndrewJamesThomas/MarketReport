@@ -3,7 +3,7 @@ This is the template for building Lightcast/EMSI reports. These reports are requ
 
 Download this repository and then follow these 6 broad steps that must be taken:
 ## Step 1: Identify CIP codes
-The first step is to identify the CIP codes associated with the program you are anlyizing. Sometimes units will have feedback on this point, but typically they will not. There are generally two good resources to use: a) the list of programs from the University Factbook (https://itableau.du.edu/#/views/AcademicPrograms/AcademicPrograms). b) The NCES website (https://nces.ed.gov/ipeds/cipcode/Default.aspx?y=56). The Lightcast "Program Develop & Review" tool will also allow you search for CIP codes based on program keywords.
+The first step is to identify the CIP codes associated with the program you are analyzing. Sometimes units will have feedback on this point, but typically they will not. There are generally two good resources to use: a) the list of programs from the University Factbook (https://itableau.du.edu/#/views/AcademicPrograms/AcademicPrograms). b) The NCES website (https://nces.ed.gov/ipeds/cipcode/Default.aspx?y=56). The Lightcast "Program Develop & Review" tool will also allow you search for CIP codes based on program keywords.
 
 ## Step 2: Identify SOC codes
 You will also need to identify the associated SOC codes. Again, there are three typical ways of determining this: a) the O\*Net website (https://www.onetonline.org/) b) the CIP-SOC crosswalk provided by Lightcast c) keyword searches in Lightcast. The SOC codes will sometimes be useful for evaluating the labor market, but often times they are not terribly informative.
@@ -20,8 +20,5 @@ Start by making sure that the assets/plots directory exists. Then open the "proc
 ## Step 6: Create visuals
 Return to the Lightcase report you generated earlier and download or screenshot the relevant visuals. You do not need to include all visuals, but these are the ones that are generally expected: "Program Overview", "Completions by Institution", "Completions Over Time", the "Labor Market Demand", "Demographic Breakdowns", "Hard/Soft Skills".
 
-## Step 7: Create Report/Write Exec Summary
-Copy the visuals into the report template and update the executive summary with the key information and any other observations you wish to include.
-
-## Step 8: Proof
-Obviously, proof the report. Then save as PDF.
+## Step 7: Create Report/Write Exec Summary/Proof
+Copy the visuals into the report template and update the executive summary with the key information and any other observations you wish to include. Then proof the report and save as a PDF.
